@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Core-sqlserver-Nv'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8649AF76FB27408594FFAA2F788FD659 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7DDFE902883948109AA723CE2EB68411 }}
           package: .
